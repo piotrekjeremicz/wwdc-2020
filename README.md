@@ -11,6 +11,12 @@ You play **Peter**, a regular commuter. Touch the screen to summon a virtual joy
 
 The point of the story is how complicated public transport is for a passenger with a disability, and how much attention the people designing it should put on that passenger.
 
+## Demo
+
+[![WWDC20 – Blind Transport — demo on YouTube](https://img.youtube.com/vi/H4da5dqhcxY/hqdefault.jpg)](https://www.youtube.com/watch?v=H4da5dqhcxY)
+
+▶ [Watch the demo on YouTube](https://www.youtube.com/watch?v=H4da5dqhcxY)
+
 ## Screenshots
 
 <table>
