@@ -11,6 +11,23 @@ You play **Peter**, a regular commuter. Touch the screen to summon a virtual joy
 
 The point of the story is how complicated public transport is for a passenger with a disability, and how much attention the people designing it should put on that passenger.
 
+## Screenshots
+
+<table>
+  <tr>
+    <td><b>1 · The Bus Stop</b><br>
+      <img src="screenshots/page-1.png" alt="The Bus Stop"></td>
+    <td><b>2 · The Crowded City</b><br>
+      <img src="screenshots/page-2.png" alt="The Crowded City"></td>
+  </tr>
+  <tr>
+    <td><b>3 · The Blindness Transport</b><br>
+      <img src="screenshots/page-3.png" alt="The Blindness Transport"></td>
+    <td><b>4 · Show By Speaking</b><br>
+      <img src="screenshots/page-4.png" alt="Show By Speaking"></td>
+  </tr>
+</table>
+
 ## What's inside
 
 A Swift Playground Book with a custom `City` module (UIKit + AVFoundation):
